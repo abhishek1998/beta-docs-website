@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Installation Guide | SuiteCRM Email to Anything
+title: Installation Guide
 nav_order: 10
 ---
 
 # Installation Guide
-
 {: .no_toc }
+
+---
 
 <details open markdown="block">
   <summary>
@@ -16,6 +17,8 @@ nav_order: 10
 - TOC
 {:toc}
 </details>
+
+---
 
 ## Overview
 
