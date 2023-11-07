@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inbound Email Configuration
-nav order: 11
+nav order: 3
 ---
 
 # Inbound Email Configuration

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Receiver Finder
-nav order: 14
+nav order: 6
 ---
 # Receiver Finder
 {: .no_toc }

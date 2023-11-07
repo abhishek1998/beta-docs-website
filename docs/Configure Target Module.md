@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configure Target Module
-nav order: 12
+nav order: 4
 ---
 # Configure Target Module
 {: .no_toc }
