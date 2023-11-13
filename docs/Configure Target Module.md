@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configure Target Module
-nav order: 4
+nav_order: 4
 ---
 # Configure Target Module
 {: .no_toc }
@@ -27,8 +27,8 @@ This guide will show you how to configure the target module (Primary and/or Seco
 
 Make sure you’ve successfully installed and configured SuiteCRM Email to Anything.
 
-- **Installation:** For detailed instructions on how to install the software, please refer to our Installation Guide.
-- **Inbound Email Configuration:** After installation, you'll need to configure the product to meet your specific needs. Our Inbound Email Configuration Guide provides step-by-step instructions for this process.
+- **Installation:** For detailed instructions on how to install the software, please refer to our [Installation Guide]({% link docs/First-e2a-docs.md %}).
+- **Inbound Email Configuration:** After installation, you'll need to configure the product to meet your specific needs. Our [Inbound Email Configuration Guide]({% link docs/Inbound Email Configuration.md %}) provides step-by-step instructions for this process.
 
 ## Email to Anything Receiver Setting
 
@@ -66,19 +66,19 @@ Imagine you receive an email containing contact information, and you want to aut
 ---
 
 <dl>
-  <dt>First Name</dt>
+  <dt>First Name:</dt>
   <dd>John</dd>
-  <dt>Last Name</dt>
+  <dt>Last Name:</dt>
   <dd>Doe</dd>
-  <dt>Office Phone</dt>
+  <dt>Office Phone:</dt>
   <dd>8999999999</dd>
-  <dt>Job Title</dt>
+  <dt>Job Title:</dt>
   <dd>Editor</dd>
-  <dt>Department</dt>
+  <dt>Department:</dt>
   <dd>Publication</dd>
-  <dt>Email Address</dt>
+  <dt>Email Address:</dt>
   <dd>johndoe@email.com</dd>
-  <dt>Website</dt>
+  <dt>Website:</dt>
   <dd>editor.com</dd>
 </dl>
 
@@ -98,5 +98,5 @@ This example demonstrates the process of extracting contact information from an 
 
 ## Additional Resources
 
-- Installation guide
-- Inbound email configuration guide
+- [Installation guide]({% link docs/First-e2a-docs.md %})
+- [Inbound email configuration guide]({% link docs/Inbound Email Configuration.md %})

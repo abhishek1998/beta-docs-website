@@ -32,7 +32,7 @@ You must install the plugin on a development environment before your live SuiteC
 You must obtain the SuiteCRM Email to Anything package (a ZIP file) before installing it on your SuiteCRM instance. You can download it by following the below steps.
 
 1. Go to OutRight Store’s Downloads Section <https://store.outrightcrm.com/my-account/downloads/>
-2. Download the SuiteCRM Email to Anything Extension By Outright Store Gmail Pub-Sub zip file.
+1. Download the _SuiteCRM Email to Anything Extension By Outright Store Gmail Pub-Sub_ zip file.
 
 ## Required Permission
 
@@ -40,10 +40,13 @@ You must obtain the SuiteCRM Email to Anything package (a ZIP file) before insta
 
 ## Installation
 
+<br>
+![Module Loader](../../assets/images/module-loader.png)
+<br>
+
 1. Login to SuiteCRM then go to the Administration panel and select **Module Loader**.
-2. Click **Choose File** and then select the SuiteCRM Email to Anything Extension By Outright Store Gmail Pub-Sub zip file you downloaded from the OutRight Store.
-3. Click **Upload**.
-4. Click **Install**.
-5. Click **Commit**.
+1. Click **Choose File** and then select the _SuiteCRM Email to Anything Extension By Outright Store Gmail Pub-Sub_ zip file you downloaded from the OutRight Store.
+1. Click **Upload** and then **Install**.
+1. Click **Commit**.
 
 You should see a message **“Congrats! Your license is automatically activated. The extension is ready to Use!!!”**

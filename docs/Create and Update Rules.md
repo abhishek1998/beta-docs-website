@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create and Update Rules
-nav order: 8
+nav_order: 8
 ---
 # Create and Update Rules
 {: .no_toc }

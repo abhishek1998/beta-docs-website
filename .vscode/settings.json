@@ -1,0 +1,8 @@
+{
+    "markdown.validate.ignoredLinks": [
+        "../../assets/images/module-loader.png",
+        "../../assets/images/enable-gmail-api.png",
+        "../../assets/images/user-type.png",
+        "../../assets/images/client-id-secret.png"
+    ]
+}
