@@ -22,7 +22,7 @@ nav_order: 2
 
 ## Overview
 
-This guide will show you how to install SuiteCRM Email to Anything on your SuiteCRM instance.
+This guide will show you how to install Email to Anything on your SuiteCRM instance.
 
 {: .note }
 You must install the plugin on a development environment before your live SuiteCRM instance.
